@@ -1,10 +1,3 @@
-## 📝 Description (short for repo)
-
-> **Chiller Website** is a modern, responsive website built using HTML, CSS, and JavaScript.
-> It showcases the design and functionality of a cooling/chiller system business website with clean UI, mobile responsiveness, and user-friendly navigation.
-> The site is hosted live on **Vercel** → [chiller-website.vercel.app](https://chiller-website.vercel.app).
-
----
 
 ## 📄 README.md (Full GitHub version)
 
