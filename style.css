@@ -1,0 +1,13 @@
+ .hero-gradient {
+            background: linear-gradient(135deg, #e0f7fa 0%, #80deea 50%, #4dd0e1 100%);
+        }
+
+        .service-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        .contact-input:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(79, 209, 197, 0.5);
+        }
